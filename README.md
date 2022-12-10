@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on bigdata
 - 🤔 I’m looking for help with code
 - 💬 Ask me about bigdata
-- 📫 How to reach me: rookiegao712@gmail.com
+- 📫 How to reach me: https://twitter.com/GSWYMK
 - 😄 Pronouns: leraning
 - ⚡ Favorite teams: Golden State Warrior/Manchester City
 
