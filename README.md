@@ -1,5 +1,7 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gtk96&show_icons=true&include_all_commits=true&hide_border=true" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gtk96&color=blue&label=views" /> </p>
+
+
 
 ### Hi there 👋
 
