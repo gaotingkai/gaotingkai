@@ -1,8 +1,3 @@
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gtk96&color=blue&label=views" /> </p>
-
-
-
 ### Hi there 👋
 
 Here are some ideas to get you started:
